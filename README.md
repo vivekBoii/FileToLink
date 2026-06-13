@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3.13%2B-blue?style=for-the-badge&logo=python" alt="Python Version"></a>
   <a href="https://github.com/Mayuri-Chan/pyrofork"><img src="https://img.shields.io/badge/Pyrofork-red?style=for-the-badge" alt="Pyrofork"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/fyaz05/FileToLink?style=for-the-badge&color=green" alt="License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/vivekBoii/FileToLink?style=for-the-badge&color=green" alt="License"></a>
   <a href="https://t.me/Thunder_Updates"><img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel"></a>
 </p>
 
@@ -298,7 +298,7 @@ This section covers the complete setup process for deploying Thunder, from prere
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/fyaz05/FileToLink.git
+git clone https://github.com/vivekBoii/FileToLink.git
 cd FileToLink
 
 # 2. Configure
@@ -315,7 +315,7 @@ docker run -d --name thunder -p 8080:8080 thunder
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/fyaz05/FileToLink.git
+git clone https://github.com/vivekBoii/FileToLink.git
 cd FileToLink
 
 # 2. Setup virtual environment
@@ -386,7 +386,7 @@ After deployment, to add any additional environment variables, use the Koyeb das
    ```
 7. Set `UPSTREAM_REPO` for auto-updates on dyno restart:
    ```bash
-   heroku config:set UPSTREAM_REPO="https://github.com/fyaz05/FileToLink" UPSTREAM_BRANCH="main"
+   heroku config:set UPSTREAM_REPO="https://github.com/vivekBoii/FileToLink" UPSTREAM_BRANCH="main"
    ```
 
 > **Note:** Heroku provides HTTPS automatically. Set `FQDN` to `your-app-name.herokuapp.com` and `HAS_SSL` to `True`.
@@ -577,6 +577,6 @@ This project is not affiliated with Telegram. Use it responsibly and in complian
 
 <p align="center">
   <b>⭐ Star this project if you find it useful!</b><br>
-  <a href="https://github.com/fyaz05/FileToLink/issues/new">Report Bug</a> •
-  <a href="https://github.com/fyaz05/FileToLink/issues/new">Request Feature</a>
+  <a href="https://github.com/vivekBoii/FileToLink/issues/new">Report Bug</a> •
+  <a href="https://github.com/vivekBoii/FileToLink/issues/new">Request Feature</a>
 </p>
