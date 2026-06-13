@@ -129,7 +129,7 @@ MSG_BUTTON_CANCEL_BROADCAST = "🛑 Cancel Broadcast"
 MSG_BUTTON_VIEW_PROFILE = "👤 View User Profile"
 MSG_BUTTON_ABOUT = "ℹ️ About Bot"
 MSG_BUTTON_JOIN_CHANNEL = "📢 Join {channel_title}"
-MSG_BUTTON_GITHUB = "🛠️ GitHub"
+MSG_BUTTON_GITHUB = "🛠️ Repeater Mock"
 MSG_BUTTON_START_CHAT = "📩 Start Chat"
 MSG_BUTTON_CLOSE = "✖ Close"
 
@@ -243,7 +243,7 @@ MSG_NEW_USER = (
     "> 👤 **Name:** [{first_name}](tg://user?id={user_id})\n"
     "> 🆔 **User ID:** `{user_id}`\n\n"
 )
-MSG_COMMUNITY_CHANNEL = "📢 **{channel_title}:** 🔒 Join this channel to use the bot."
+MSG_COMMUNITY_CHANNEL = "📢 **{channel_title}:** 🔒 Join this channel to use the bot and resend the video"
 
 # =====================================================================================
 # ====== PROCESSING MESSAGES ======
